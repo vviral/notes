@@ -3,15 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Viral Vala Notes
-===========================
+Problems and Puzzles
+====================
 
 Table of Contents:
 
 .. toctree::
   :maxdepth: 1
 
-  Commands <commands/index.rst>
-  Problems <problems/index.rst>
-  Tools <tools/index.rst>
-  Tutorials <tutorials/index.rst>
